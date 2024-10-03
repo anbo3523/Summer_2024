@@ -1,0 +1,2 @@
+Adapting old programs to fit new machines usually means adapting new machines to behave like old ones.
+0 1 3 6 10 15
